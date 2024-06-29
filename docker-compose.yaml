@@ -43,7 +43,6 @@ services:
     depends_on:
       - db
       - elasticsearch
-      - sidekiq
     environment:
       RAILS_ENV: development  # Set your Rails environment
       DATABASE_URL: mysql2://root:password@db:3306/chat_system  # Adjust database connection URL
