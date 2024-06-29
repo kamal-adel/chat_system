@@ -1,5 +1,9 @@
 # Chat Application API
 
+## Note on Implementation
+
+This project represents my first experience with Ruby on Rails and Ruby programming. As such, I apologize in advance for any deviations from best practices or conventions. I'm continuously learning and improving, and I appreciate your understanding and feedback to enhance this project further.
+
 This project is a chat application API built with Ruby on Rails, MySQL, and Elasticsearch. It allows for creating applications, chats, and messages, and includes search functionality for messages.
 
 ## Table of Contents
