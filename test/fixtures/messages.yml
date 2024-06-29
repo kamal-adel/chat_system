@@ -1,0 +1,15 @@
+# test/fixtures/applications.yml
+one:
+  name: Example Application
+  token: unique_token_1
+
+# test/fixtures/chats.yml
+one:
+  number: 1
+  application: one
+
+# test/fixtures/messages.yml
+one:
+  body: Example message body
+  number: 1
+  chat: one

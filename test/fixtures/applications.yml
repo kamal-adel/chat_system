@@ -1,0 +1,8 @@
+# test/fixtures/applications.yml
+application_one:
+  name: Example App 3
+  token: unique_token_3
+
+application_two:
+  name: Example App 4
+  token: unique_token_4
